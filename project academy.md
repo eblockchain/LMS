@@ -16,12 +16,7 @@ A través de Internet, hay mucha información disponible, pero el acceso a la in
 
 Theweb3.academy nace como un protocolo descentralizado enfocado en la educación y sus participantes, que permite crear y compartir espacios y contenidos conservando la Propiedad Intelectual, además de recompensar la buena participación de los usuarios, personas o instituciones a través de Contratos Inteligentes. Libre de censura Global. A través de un Marketplace cursos de capacitación en el ecosistema blockchain, que permita a los participantes adquirir conocimientos  enfocados en el desarrollo de soluciones tecnológicas que aporten al ecosistema Polkadot y Kusama. 
 
-
-
 La Educación es la columna vertebral para la creación de masa crítica y bienestar social Global La interconexión sin barreras ahora es posible. La Plataforma de aprendizaje, permitira la integracion de facilitadores y estudiantes en el proceso de enseñanza aprendizaje, el sistema estara basado en recompensas por cada nivel superado.
-
-
-
 
 
 ### Project Details
@@ -33,6 +28,8 @@ Componentes técnicos a desarrollar en la ejecucion del proyecto
 1. Dapp (LMS)
 2. Smart Contract.
 3. Wallet Extention 
+4. 
+### Ecosystem Smartc Contracts 
 
 ![Diseño lógico de Smart Contracts](https://github.com/academycode/LMS/blob/main/Dise%C3%B1o%20L%C3%B3gico%20Smart%20Contract.jpg)
 
@@ -59,7 +56,6 @@ En los siguientes enlaces se encuentran disponible algunos documentos con inform
 | - Adrian Sanchez | ESP  |  Fintech & Marketing |   
 
 
-
 ### Contact
 
 - **Contact Name:** Alexi Landaeta
@@ -74,7 +70,6 @@ En los siguientes enlaces se encuentran disponible algunos documentos con inform
 ### Team’s experience
 
 
-
 ### Team Code Repo
 
 - [git academy code](https://github.com/academycode).
@@ -82,12 +77,8 @@ En los siguientes enlaces se encuentran disponible algunos documentos con inform
 
 ### Team LinkedIn Profiles
 
-- https://www.linkedin.com/
 - https://www.linkedin.com/in/marco-j-gómez-m-a57888123 
-- https://www.linkedin.com/
-- https://www.linkedin.com/
-- https://www.linkedin.com/
-- https://www.linkedin.com/
+
 
 ## Development Roadmap
 
@@ -171,7 +162,6 @@ En los siguientes enlaces se encuentran disponible algunos documentos con inform
 | 2. | Pruebas Funcionales del Sistema | pruebas funcionales|
 | 3. | Plataforma desplegada | despliegue en pre-produccion|
 | 4. | Plataforma desplegada | despliegue en produccion|
-
 
 
 ## Future Plans
