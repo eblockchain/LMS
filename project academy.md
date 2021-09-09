@@ -34,13 +34,14 @@ Componentes técnicos a desarrollar en la ejecucion del proyecto
 ![Diseño lógico de Smart Contracts](https://github.com/academycode/LMS/blob/main/Dise%C3%B1o%20L%C3%B3gico%20Smart%20Contract.jpg)
 
 
+### Ecosystem LMS
+
+![Imagen del Ecosistema del LMS](https://github.com/academycode/LMS/blob/main/EcosistemaLMS.jpg)
+
 En el siguientes enlace se encuentra disponible el documento con detalles del programa Académico:
 
 - [Programa Académico](https://github.com/academycode/LMS/blob/main/Programa%20Academico%20Polcadot%20y%20Kusama%200.1.pdf) 
 
-### Ecosystem 
-
-![Imagen del Ecosistema del LMS](https://github.com/academycode/LMS/blob/main/EcosistemaLMS.jpg)
 
 ## Team
 
