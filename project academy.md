@@ -76,7 +76,7 @@ En los siguientes enlaces se encuentran disponible algunos documentos con inform
 
 ### Team Code Repo
 
-- [git academy code](https://github.com/academycode) module, brings Move VM to Cosmos SDK.
+- [git academy code](https://github.com/academycode).
 
 
 ### Team LinkedIn Profiles
