@@ -42,7 +42,7 @@ En los siguientes enlaces se encuentran disponible algunos documentos con inform
 
 ### Ecosystem 
 
-![Imagen del Ecosistema del LMS](https://github.com/academycode/LMS/EcosistemaLMS.jpg)
+![Imagen del Ecosistema del LMS](https://github.com/academycode/LMS/blob/main/EcosistemaLMS.jpg)
 
 ## Team
 
