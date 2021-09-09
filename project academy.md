@@ -34,6 +34,7 @@ Componentes técnicos a desarrollar en la ejecucion del proyecto
 2. Smart Contract.
 3. Wallet Extention 
 
+![Diseño lógico de Smart Contracts](https://github.com/academycode/LMS/blob/main/Dise%C3%B1o%20L%C3%B3gico%20Smart%20Contract.jpg)
 
 
 En los siguientes enlaces se encuentran disponible algunos documentos con información de interés relacionada con el proyecto:
