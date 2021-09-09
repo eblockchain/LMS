@@ -25,16 +25,16 @@ Implementacion de un Sistema de Gestion de apredizaje (LMS), como herramienta qu
 
 Componentes técnicos a desarrollar en la ejecucion del proyecto
 
-1. Dapp (LMS)
-2. Smart Contract.
+1. Smart Contract
+2. Dapp (LMS)
 3. Wallet Extention 
-4. 
+
 ### Ecosystem Smartc Contracts 
 
 ![Diseño lógico de Smart Contracts](https://github.com/academycode/LMS/blob/main/Dise%C3%B1o%20L%C3%B3gico%20Smart%20Contract.jpg)
 
 
-En los siguientes enlaces se encuentran disponible algunos documentos con información de interés relacionada con el proyecto:
+En el siguientes enlace se encuentra disponible el documento con detalles del programa Académico:
 
 - [Programa Académico](https://github.com/academycode/LMS/blob/main/Programa%20Academico%20Polcadot%20y%20Kusama%200.1.pdf) 
 
