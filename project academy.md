@@ -113,10 +113,12 @@ En el siguientes enlace se encuentra disponible el documento con detalles del pr
 | 11.| Módulo de Wallet | FrontEnd/BackEnd del Módulo |
 | 12.| Módulo de Bounties | FrontEnd/BackEnd del Módulo |
 | 13.| Conectividad con polkadot.(js) complemento wallet! |FrontEnd/BackEnd para el complemento|
-| 14.| Lógica de Contrato CertExaminee en Ink! |reglas de negocio con logica para certificacion|
-| 15.| Lógica Contrato ExamVerifier  en Ink! | reglas de negocio para el calculo de resultados de las evaluaciones|
-| 16.| API Documentada | BackEnd para la API |
-| 17.| Documento del Diseño Lógico de Infraestructura | configuración de infraestructura|
+| 14.| Lógica de Contrato Registry en Ink! |reglas de negocio para logica de registro|
+| 15.| Lógica Contrato Treasury  en Ink! | reglas de negocio para la gestion de TIP|
+| 16.| Lógica de Contrato CertExaminee en Ink! |reglas de negocio para logica para certificacion|
+| 17.| Lógica Contrato ExamVerifier  en Ink! | reglas de negocio para el calculo de resultados de las evaluaciones|
+| 18.| API Documentada | BackEnd para la API |
+| 19.| Documento del Diseño Lógico de Infraestructura | configuración de infraestructura|
 
 
 ### Milestone 2 — Diseño, Desarrollo e Integración
@@ -140,9 +142,11 @@ En el siguientes enlace se encuentra disponible el documento con detalles del pr
 | 8. | Módulo de Certificados | FrontEnd/BackEnd del Módulo|
 | 9. | Módulo de Reportes | FrontEnd/BackEnd del Módulo|
 | 10.| Conectividad con polkadot.(js) complemento wallet!| Pruebas del Módulo
-| 11. | Integración y pruebas de Contrato CertExaminee |en Ink! en Substrate testnet|
-| 12. | Integración y pruebas de Contrato ExamVerifier | en Ink! en Substrate testnet|
-| 13. | API Documentada | BackEnd para la API |
+| 11.| Integración y pruebas de Contrato Registry |Ink! en Substrate testnet|
+| 12.| Integración y pruebas de Contrato Treasury |Ink! en Substrate testnet|
+| 13.| Integración y pruebas de Contrato CertExaminee |Ink! en Substrate testnet|
+| 14.| Integración y pruebas de Contrato ExamVerifier |Ink! en Substrate testnet|
+| 15.| API Documentada | BackEnd para la API |
 
 
 ### Milestone 3 — Despliegue
@@ -155,10 +159,10 @@ En el siguientes enlace se encuentra disponible el documento con detalles del pr
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
-| 0a. | License | Apache 2.0 / MIT / Unlicensed |
-| 0b. | Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
-| 0c. | Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests | 
-| 0d. | Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
+| 0a.| License | Apache 2.0 / MIT / Unlicensed |
+| 0b.| Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
+| 0c.| Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests| 
+| 0d.| Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
 | 1. | Módulos Integrados | Módulos del ecosistema integrados|
 | 2. | Pruebas Funcionales del Sistema | pruebas funcionales|
 | 3. | Plataforma desplegada | despliegue en pre-produccion|
