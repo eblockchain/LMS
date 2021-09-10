@@ -171,7 +171,7 @@ En el siguientes enlace se encuentra disponible el documento con detalles del pr
 
 ## Future Plans
 
-Agregar modulo de crtificados utilizando NFT.
+Agregar modulo de certificados utilizando NFT.
 
 ## Additional Information
 
