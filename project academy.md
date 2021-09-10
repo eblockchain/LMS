@@ -1,7 +1,7 @@
 # Open Grant Proposal
 
-- **Project Name:** nidoXXXXX (xxx).
-- **Team Name:** Academic (Foundation).
+- **Project Name:** theblock.academy
+- **Team Name:** Escuela Blockchain.
 - **Payment Address USDT:** XXXXXXXXXXXXXXXXXXXXXXXXXXXXX.
 
 ## Project Overview
@@ -12,24 +12,24 @@ Peer to peer learning
 
 makes learning multiplayer 
 
-A través de Internet, hay mucha información disponible, pero el acceso a la información no garantiza el aprendizaje. En la mayoría de los sistemas educativos los profesores son los que facilitan el aprendizaje. Dan retroalimentación, evalúan el trabajo de los estudiantes y conservan los materiales de aprendizaje. Los profesores suelen ser los cuellos de botella de los sistemas educativos porque son difíciles de ampliar y en algunos casos resultan muy costosos. Theweb3.academy permitirá construir un ecosistema de aprendizaje entre iguales en el que los aprendices, docentes y tutores  se eduquen unos a otros.
+Through the Internet, a lot of information is available, but access to information does not guarantee learning. In most educational systems, teachers are the ones who facilitate learning. They give feedback, evaluate student work, and preserve learning materials. Teachers are often the bottlenecks of education systems because they are difficult to scale up and in some cases very expensive. elnido.network will build a peer learning ecosystem in which learners, teachers and tutors educate each other.
 
-Theweb3.academy nace como un protocolo descentralizado enfocado en la educación y sus participantes, que permite crear y compartir espacios y contenidos conservando la Propiedad Intelectual, además de recompensar la buena participación de los usuarios, personas o instituciones a través de Contratos Inteligentes. Libre de censura Global. A través de un Marketplace cursos de capacitación en el ecosistema blockchain, que permita a los participantes adquirir conocimientos  enfocados en el desarrollo de soluciones tecnológicas que aporten al ecosistema Polkadot y Kusama. 
+theblock.academy was born as a decentralized protocol focused on education and its participants, which allows the creation and sharing of spaces and content while preserving Intellectual Property, in addition to rewarding the good participation of users, people or institutions through Smart Contracts. Global censorship free. Through a Marketplace training courses in the blockchain ecosystem, which allows participants to acquire knowledge focused on the development of technological solutions that contribute to the Polkadot and Kusama ecosystem. 
 
-La Educación es la columna vertebral para la creación de masa crítica y bienestar social Global La interconexión sin barreras ahora es posible. La Plataforma de aprendizaje, permitira la integracion de facilitadores y estudiantes en el proceso de enseñanza aprendizaje, el sistema estara basado en recompensas por cada nivel superado.
+Education is the backbone for creating critical mass and global social well-being. Interconnection without barriers is now possible. The Learning Platform will allow the integration of facilitators and students in the teaching-learning process, the system will be based on rewards for each level passed, a vital tool for adoption, inclusion 
 
 
 ### Project Details
 
-Implementacion de un Sistema de Gestion de apredizaje (LMS), como herramienta que permita a los usuarios dar a conocer los lementos fundamentales de la blockchain de polkadot y kusama, a traves de un programa educativo elaborado y ejecutado por un equipo de facilitadores, que guiaran a los participantes a traves de un sistema de tutorias que les permitan monitorear el progreso de los estudiantes, a través de un sistema de evaluaciones y desafios técnicos, apoyados en un sistema de recompensas.
+Implementation of a Learning Management System (LMS), as a tool that allows users to publicize the fundamental elements of the polkadot and kusama blockchain, through an educational program prepared and executed by a team of facilitators, who will guide to the participants through a system of tutorials that allow them to monitor the progress of the students, through a system of evaluations and technical challenges, supported by a system of rewards.
 
-Componentes técnicos a desarrollar en la ejecucion del proyecto
+Technical components to be developed in the execution of the project
 
 1. Smart Contract
 2. Dapp (LMS)
 3. Wallet Extention 
 
-### Ecosystem Smartc Contracts 
+### Ecosystem Smart Contracts 
 
 ![Diseño lógico de Smart Contracts](https://github.com/academycode/LMS/blob/main/Dise%C3%B1o%20L%C3%B3gico%20Smart%20Contract.jpg)
 
@@ -38,7 +38,7 @@ Componentes técnicos a desarrollar en la ejecucion del proyecto
 
 ![Imagen del Ecosistema del LMS](https://github.com/academycode/LMS/blob/main/EcosistemaLMS.jpg)
 
-En el siguientes enlace se encuentra disponible el documento con detalles del programa Académico:
+In the following link the document with details of the Academic program is available:
 
 - [Programa Académico](https://github.com/academycode/LMS/blob/main/Programa%20Academico%20Polcadot%20y%20Kusama%200.1.pdf) 
 
@@ -46,15 +46,15 @@ En el siguientes enlace se encuentra disponible el documento con detalles del pr
 ## Team
 
 ### Team members
-**Professors**  | **Languages**   | **Especialidad**|
+**Professors**  | **Languages**   | **Speciality**|
 | ------------- | ------------- | ------------- | 
-| - Alexi Landaeta.  | ESP/ENG       |  CEO     |
-| - Marco J. Gómez M. | ESP  |  CTO, Software Architect & Smart Contact |   
-| - Roberto Hung.    | ESP/ENG/FRE/ITA |  Blockchain developer       
-| - Irina Karigayur. | ENG/RUS/ITA    |  Software Architect & DevOps |      
-| - Veronika Kutt.   | ENG/DEU      | Blockchain developer |    
+| - Alexi Landaeta.   |   ESP/ENG       |  CEO  Project Leader    |
+| - Marco J. Gómez M. |     ESP         |  CTO  Software Architect & Smart Contact |   
+| - Roberto Hung.     | ESP/ENG/FRE/ITA |  CLO  Legal Professor Leader       
+| - Irina Karigayur.  | ENG/RUS/ITA    |  Defi - NFT and Promotion Leader |      
+| - Veronika Kutt.    | ENG/DEU      | Blockchain developer |   
 | - Wilmer Colmenares | ESP  |  Vue & Blockchain developer | 
-| - Adrian Sanchez | ESP  |  Fintech & Marketing |   
+| - Adrian Sanchez    | ESP  |  Fintech & Marketing |   
 
 
 ### Contact
@@ -77,7 +77,7 @@ En el siguientes enlace se encuentra disponible el documento con detalles del pr
 
 
 ### Team LinkedIn Profiles
-
+https://www.linkedin.com/in/alexilandaeta/
 - https://www.linkedin.com/in/marco-j-gómez-m-a57888123 
 
 
@@ -91,7 +91,7 @@ En el siguientes enlace se encuentra disponible el documento con detalles del pr
 
 ### Milestone 1 - Diseño y Desarrollo
 
-- **Estimated Duration:** 3 month
+- **Estimated Duration:** 3 months
 - Working days **x** week. **:** 5 **x** 13
 - Effort: 65 days
 - FTE: 7,25
@@ -99,29 +99,28 @@ En el siguientes enlace se encuentra disponible el documento con detalles del pr
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
-| 0. | Procesos | Ficha de Procesos documentados |
-| 1. | Maqueta del LMS  | Prototipo del LMS|
-| 2. | Modelo Lógico de Contratos | Diagrama del modelo Lógico |
-| 3. | Manual de Marca | Diseño Grafico de la Plataforma  |
-| 4. | Laminas con Contenido Académico | Contenido Académico en formato pdf|
-| 5. | Quiz de Conocimientos |Cuestionarios para cada contenido Académico |
-| 6. | Landing Page | FrontEnd/BackEnd de Landing Page|
-| 7. | Módulo para Seguridad | FrontEnd/BackEnd del Módulo|
-| 8. | Módulo para  Registro | FrontEnd/BackEnd del Módulo |
-| 9. | Módulo de Configuración/Esquema de Recompensas | FrontEnd/BackEnd del Módulo |
-| 10.| Dashboard de usuario | FrontEnd/BackEnd del dashboard |
-| 11.| Módulo de Wallet | FrontEnd/BackEnd del Módulo |
-| 12.| Módulo de Bounties | FrontEnd/BackEnd del Módulo |
-| 13.| Conectividad con polkadot.(js) complemento wallet! |FrontEnd/BackEnd para el complemento|
-| 14.| Lógica de Contrato Registry en Ink! |reglas de negocio para logica de registro|
-| 15.| Lógica Contrato Treasury  en Ink! | reglas de negocio para la gestion de TIP|
-| 16.| Lógica de Contrato CertExaminee en Ink! |reglas de negocio para logica para certificacion|
-| 17.| Lógica Contrato ExamVerifier  en Ink! | reglas de negocio para el calculo de resultados de las evaluaciones|
-| 18.| API Documentada | BackEnd para la API |
-| 19.| Documento del Diseño Lógico de Infraestructura | configuración de infraestructura|
+| 0. | Processes | Documented Processes File |
+| 1. | LMS mockup | LMS prototype |
+| 2. | Logical Model of Contracts | Logical model diagram |
+| 3. | Brand Manual | Graphic Design of the Platform |
+| 4. | Sheets with Academic Content | Academic Content in pdf format |
+| 5. | Knowledge Quiz | Questionnaires for each Academic content |
+| 6. | Landing Page | FrontEnd / BackEnd of Landing Page |
+| 7. | Module for Security | FrontEnd / BackEnd of the Module |
+| 8. | Registration Module | FrontEnd / BackEnd of the Module |
+| 9. | Configuration Module / Rewards Scheme | FrontEnd / BackEnd of the Module |
+| 10. | User dashboard | FrontEnd / BackEnd of the dashboard |
+| 11. | Wallet module | FrontEnd / BackEnd of the Module |
+| 12. | Bounties Module | FrontEnd / BackEnd of the Module |
+| 13. | Connectivity with polkadot. (Js) wallet plugin! | FrontEnd / BackEnd for add-in |
+| 14. | Logic of Contract Registry in Ink! | business rules for registration logic |
+| 15. | Logic Contract Treasury in Ink! | business rules for TIP management |
+| 16. | CertExaminee Contract Logic in Ink! | business rules for certification logic |
+| 17. | ExamVerifier Contract Logic in Ink! | business rules for calculating evaluation results |
+| 18. | Documented API | BackEnd for the API |
+| 19. | Infrastructure Logical Design Document | infrastructure configuration |
 
-
-### Milestone 2 — Diseño, Desarrollo e Integración
+### Milestone 2 — Design, Development and Integration
 
 - **Estimated Duration:** 3 month
 - Working days **x** week. **:** 5 **x** 13
@@ -131,25 +130,25 @@ En el siguientes enlace se encuentra disponible el documento con detalles del pr
 
 | Number | Deliverable | Specification |
 | ------------- | ------------- | ------------- |
-| 0. |  Certificados de participantes | Plantilla de certificados en pdf|
-| 1. | Videos tutoriales | Contenido Académico en formato de video|  
-| 2. | Módulo de Communities | FrontEnd/BackEnd del Módulo|  
-| 4. | Módulo de Notificaciones | FrontEnd/BackEnd del Módulo|
-| 4. | Modules Seguridad | FrontEnd/BackEnd del Módulo|
-| 5. | Módulo de Profile/Record Académico | FrontEnd/BackEnd del Módulo|
-| 6. | Módulo para Revisión de Proyectos | FrontEnd/BackEnd del Módulo|
-| 7. | Módulo de Quiz  | FrontEnd/BackEnd del Módulo|
-| 8. | Módulo de Certificados | FrontEnd/BackEnd del Módulo|
-| 9. | Módulo de Reportes | FrontEnd/BackEnd del Módulo|
-| 10.| Conectividad con polkadot.(js) complemento wallet!| Pruebas del Módulo
-| 11.| Integración y pruebas de Contrato Registry |Ink! en Substrate testnet|
-| 12.| Integración y pruebas de Contrato Treasury |Ink! en Substrate testnet|
-| 13.| Integración y pruebas de Contrato CertExaminee |Ink! en Substrate testnet|
-| 14.| Integración y pruebas de Contrato ExamVerifier |Ink! en Substrate testnet|
-| 15.| API Documentada | BackEnd para la API |
+| 0. | Participant certificates | Certificate template in pdf |
+| 1. | Tutorial Videos | Academic content in video format |
+| 2. | Communities module | FrontEnd / BackEnd of the Module |
+| 4. | Notifications Module | FrontEnd / BackEnd of the Module |
+| 4. | Modules Security | FrontEnd / BackEnd of the Module |
+| 5. | Academic Profile / Record Module | FrontEnd / BackEnd of the Module |
+| 6. | Project Review Module | FrontEnd / BackEnd of the Module |
+| 7. | Quiz module | FrontEnd / BackEnd of the Module |
+| 8. | Certificate Module | FrontEnd / BackEnd of the Module |
+| 9. | Reports Module | FrontEnd / BackEnd of the Module |
+| 10. | Connectivity with polkadot. (Js) wallet plugin! Module Testing
+| 11. | Integration and testing of Contract Registry | Ink! on Substrate testnet |
+| 12. | Integration and testing of Contract Treasury | Ink! on Substrate testnet |
+| 13. | CertExaminee | Ink! Contract Integration and Testing on Substrate testnet |
+| 14. | ExamVerifier | Ink! Contract testing and integration on Substrate testnet |
+| 15. | Documented API | BackEnd for the API |
 
 
-### Milestone 3 — Despliegue
+### Milestone 3 — Deploy
 
 - **Estimated Duration:** 3 month
 - Working days **x** week. **:** 5 **x** 13
@@ -163,16 +162,15 @@ En el siguientes enlace se encuentra disponible el documento con detalles del pr
 | 0b.| Documentation | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up one of our Substrate nodes. Once the node is up, it will be possible to send test transactions that will show how the new functionality works. |
 | 0c.| Testing Guide | The code will have unit-test coverage (min. 70%) to ensure functionality and robustness. In the guide we will describe how to run these tests| 
 | 0d.| Tutorial | We will write an article or tutorial that explains the work done as part of the grant. 
-| 1. | Módulos Integrados | Módulos del ecosistema integrados|
-| 2. | Pruebas Funcionales del Sistema | pruebas funcionales|
-| 3. | Plataforma desplegada | despliegue en pre-produccion|
-| 4. | Plataforma desplegada | despliegue en produccion|
+| 1. | Integrated Modules | Integrated ecosystem modules |
+| 2. | System Functional Tests | functional tests |
+| 3. | Deployed platform | rollout in pre-production |
+| 4. | Deployed platform | deployment in production |
 
 
 ## Future Plans
 
-Agregar modulo de certificados utilizando NFT.
-
+Add certification modules using NFT´s
 ## Additional Information
 
 Wings Stiftung will be as well supporting financially this project. We are going to apply to another Grant for the implementation of the [Pontem network](https://pontem.network).
